@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "utd_sftp", "utd_sftp\utd_sftp.vcxitems", "{61527611-9F6D-4CA3-A645-FFCAF4E7E467}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "utd_sftp_server", "utd_sftp_server\utd_sftp_server.vcxproj", "{111CC37A-E83D-47F6-845F-0755052907C5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "utd_sftp_client", "utd_sftp_client\utd_sftp_client.vcxproj", "{3CA0FAEF-D033-4886-B070-7A2F8EDDADCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111CC37A-E83D-47F6-845F-0755052907C5}.Debug|x64.ActiveCfg = Debug|x64
+		{111CC37A-E83D-47F6-845F-0755052907C5}.Debug|x64.Build.0 = Debug|x64
+		{111CC37A-E83D-47F6-845F-0755052907C5}.Debug|x86.ActiveCfg = Debug|Win32
+		{111CC37A-E83D-47F6-845F-0755052907C5}.Debug|x86.Build.0 = Debug|Win32
+		{111CC37A-E83D-47F6-845F-0755052907C5}.Release|x64.ActiveCfg = Release|x64
+		{111CC37A-E83D-47F6-845F-0755052907C5}.Release|x64.Build.0 = Release|x64
+		{111CC37A-E83D-47F6-845F-0755052907C5}.Release|x86.ActiveCfg = Release|Win32
+		{111CC37A-E83D-47F6-845F-0755052907C5}.Release|x86.Build.0 = Release|Win32
+		{3CA0FAEF-D033-4886-B070-7A2F8EDDADCC}.Debug|x64.ActiveCfg = Debug|x64
+		{3CA0FAEF-D033-4886-B070-7A2F8EDDADCC}.Debug|x64.Build.0 = Debug|x64
+		{3CA0FAEF-D033-4886-B070-7A2F8EDDADCC}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CA0FAEF-D033-4886-B070-7A2F8EDDADCC}.Debug|x86.Build.0 = Debug|Win32
+		{3CA0FAEF-D033-4886-B070-7A2F8EDDADCC}.Release|x64.ActiveCfg = Release|x64
+		{3CA0FAEF-D033-4886-B070-7A2F8EDDADCC}.Release|x64.Build.0 = Release|x64
+		{3CA0FAEF-D033-4886-B070-7A2F8EDDADCC}.Release|x86.ActiveCfg = Release|Win32
+		{3CA0FAEF-D033-4886-B070-7A2F8EDDADCC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B1F9220-FB1A-44A0-99E0-A6A6FFED89A3}
+	EndGlobalSection
+EndGlobal
